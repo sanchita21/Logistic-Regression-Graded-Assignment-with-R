@@ -1,4 +1,6 @@
-# Logistic Regression Graded Assignment with R
+# Logistic Regression Graded Assignment with R  
+
+This assignment is a part of graded assignments from Jigsaw Academy-Online school of Analytics
  
 This assignment is related to building a logistic regression model on sample survey data. 
 This data set has been collected as a part of a survey exercise done by a leading snacks manufacturer.
